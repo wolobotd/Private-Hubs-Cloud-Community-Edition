@@ -11,9 +11,6 @@ visitors, to be able to use it.</p>
 seemed to be some sort of limitation, especially around sound
 support. Try as I might, I could never quite get it going, and what I
 did get working was not very stable.</p>
-<p><br/>
-<br/>
-
 </p>
 <p>On May 31<sup>st</sup>, 2024, everything changed. This is the day
 Mozilla ended support for Mozilla Hubs, and the non-profit Hubs
