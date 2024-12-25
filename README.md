@@ -39,8 +39,7 @@ follow on the Hubs Foundation website
 <p>https://github.com/Hubs-Foundation/hubs-cloud/tree/master/community-edition.
 </p>
 <p><br/>
-<p><i>I’m not most folks. </i>I authored 4 patents on data privacy
-and security - I have a keen interest in <font face="Liberation Sans, sans-serif"><font size="2" style="font-size: 11pt">having</font></font>
+I have a keen interest in <font face="Liberation Sans, sans-serif"><font size="2" style="font-size: 11pt">having</font></font>
 <font face="Liberation Sans, sans-serif"><font size="2" style="font-size: 11pt">complete</font></font>
 control of my own private server. I also do not want to have to worry
 about somebody’s business decisions having an impact on me. I like
