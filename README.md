@@ -24,9 +24,6 @@ the project(s), eventually releasing the Hubs Cloud Community
 Edition. This allowed users to deploy a full Hubs stack outside of
 AWS <font face="Liberation Sans, sans-serif"><font size="2" style="font-size: 11pt">that
 was fully</font></font> under their own control.</p>
-<p><br/>
-<br/>
-
 </p>
 <p>Like all good projects, Hubs is a complex infrastructure of
 services and applications, and (at least as of this writing) still
@@ -42,9 +39,6 @@ follow on the Hubs Foundation website
 <p>https://github.com/Hubs-Foundation/hubs-cloud/tree/master/community-edition.
 </p>
 <p><br/>
-<br/>
-
-</p>
 <p><i>I’m not most folks. </i>I authored 4 patents on data privacy
 and security - I have a keen interest in <font face="Liberation Sans, sans-serif"><font size="2" style="font-size: 11pt">having</font></font>
 <font face="Liberation Sans, sans-serif"><font size="2" style="font-size: 11pt">complete</font></font>
@@ -73,10 +67,6 @@ and manage</font></font><font face="Liberation Sans, sans-serif"><font size="2" 
 	functional Hubs Cloud Community Edition server</p>
 	<li><p>Reverse Proxy to allow public access (optional)</p>
 </ul>
-<p><br/>
-<br/>
-
-</p>
 <p>The main differences between this type of deployment versus
 <font face="Liberation Sans, sans-serif"><font size="2" style="font-size: 11pt">external
 </font></font>hosting provider versions are</p>
@@ -98,15 +88,8 @@ Thoughts Before Proceeding</b></font></font></p>
 own hardware, this document will give you the blueprints and guidance
 to help make it a reality. 
 </p>
-<p><br/>
-<br/>
-
 </p>
 <p>There is a lot of work to be done. 
-</p>
-<p><br/>
-<br/>
-
 </p>
 <p>While I will try and explain the purpose of each step, there are a
 lot of concepts to bring together here including networking,
@@ -117,22 +100,10 @@ GUIs. This all runs on command-line Linux, not on Windows or MacOS
 (although I have been asked to port it to Windows and/or Windows
 Server - stay tuned!). 
 </p>
-<p><br/>
-<br/>
-
-</p>
 <p>If I haven’t scared you off yet, then let’s get started on a
 journey of discovery as we build our own private metaverse together.
 Enjoy!</p>
-<p><br/>
-<br/>
-
-</p>
 <p><font face="Dancing Script"><font size="4" style="font-size: 15pt">Terry</font></font></p>
-<p><br/>
-<br/>
-
-</p>
 <p style="margin-top: 0.15cm; margin-bottom: 0cm; border: 1px solid #ff0000; padding: 0.1cm; line-height: 100%; background: #fff5ce; page-break-before: auto">
 <font color="#3e454c"><font face="Courier 10 Pitch"><font size="2" style="font-size: 10pt"><strong>Disclaimer:</strong><br/>
 The
