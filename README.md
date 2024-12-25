@@ -1,5 +1,5 @@
 <header>
-#Mozilla Hubs#
+# Mozilla Hubs #
 Ever since I found out about Mozilla Hubs, I wanted to get my own server running. I don’t mean I wanted an AWS-hosted version - I wanted to host it on my own server hardware, and allow users both within my organization, as well as external visitors, to be able to use it.
 
 While there were some articles on self-hosting, there always seemed to be some sort of limitation, especially around sound support. Try as I might, I could never quite get it going, and what I did get working was not very stable.
@@ -36,6 +36,5 @@ If I haven’t scared you off yet, then let’s get started on a journey of disc
 
 Terry
 </header>
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-</footer>
+<footer></footer>
