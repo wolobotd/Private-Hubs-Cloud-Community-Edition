@@ -1,17 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 7.0.4.2 (Linux)"/>
-	<meta name="created" content="2024-12-25T14:17:40.360770877"/>
-	<meta name="changed" content="2024-12-25T14:17:59.603329149"/>
-	<style type="text/css">
-		@page { size: 21.59cm 27.94cm; margin: 2cm }
-		p { margin-bottom: 0.25cm; line-height: 115%; background: transparent }
-		strong { font-weight: bold }
-	</style>
-</head>
 <body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p style="margin-top: 0.42cm; margin-bottom: 0.21cm; line-height: 100%; page-break-after: avoid">
 <font face="Liberation Sans, sans-serif"><font size="4" style="font-size: 16pt"><b>Mozilla
 Hubs</b></font></font></p>
