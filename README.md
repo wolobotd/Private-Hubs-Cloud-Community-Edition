@@ -1,3 +1,4 @@
+<header>
 #Mozilla Hubs#
 Ever since I found out about Mozilla Hubs, I wanted to get my own server running. I don’t mean I wanted an AWS-hosted version - I wanted to host it on my own server hardware, and allow users both within my organization, as well as external visitors, to be able to use it.
 
@@ -34,7 +35,7 @@ While I will try and explain the purpose of each step, there are a lot of concep
 If I haven’t scared you off yet, then let’s get started on a journey of discovery as we build our own private metaverse together. Enjoy!
 
 Terry
-
+</header>
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
