@@ -6,9 +6,6 @@ server running. I don’t mean I wanted an AWS-hosted version - I
 wanted to host it on my own server <font face="Liberation Sans, sans-serif"><font size="2" style="font-size: 11pt">hardware</font></font>,
 and allow users both within my organization, as well as external
 visitors, to be able to use it.</p>
-<p><br/>
-<br/>
-
 </p>
 <p>While there were some articles on self-hosting, there always
 seemed to be some sort of limitation, especially around sound
